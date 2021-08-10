@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/6959032/128827016-cd47b497-1786-461e-9a1a-e6d835bc7c8e.png" width="30%" alt="MLJAR Studio" />
+</p>
+
 # MLJAR Studio
 
 In this repository we publish binaries (executables), track progress and issues for MLJAR Studio Desktop Application.
