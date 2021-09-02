@@ -6,6 +6,10 @@
 
 In this repository we publish binaries (executables), track progress and issues for MLJAR Studio Desktop Application.
 
+### Would you like to try it?
+
+If you would like to test MLJAR Studio application please fill the [form](https://docs.google.com/forms/d/e/1FAIpQLSeB5-hA326sBg9fg-ppVeYXDYHbRWYoKO18p4MdnxFYknA7aw/viewform) and we will let you know when it will be ready.
+
 ## Milestone versions
 
 1. Version 1.0 ([Łapy](https://en.wikipedia.org/wiki/%C5%81apy)) - working notebook with graphical interface for code creation.
