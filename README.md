@@ -6,7 +6,7 @@
 
 In this repository we publish binaries, track progress and issues for MLJAR Studio Desktop Application.
 
-- Binaries with installer for MLJAR Studio: [installer](https://github.com/mljar/studio/releases)
+- Binaries with installer for MLJAR Studio: [installer](https://github.com/mljar/studio/releases/download/v1.0.0/MLJAR-Studio-Setup-1.0.0.exe), [release details](https://github.com/mljar/studio/releases)
 - If you have issues with application, please submit it [here](https://github.com/mljar/studio/issues)
 - If you have feature request, please start a [new disucssion](https://github.com/mljar/studio/discussions)
 - Documentation for MLJAR Studio is available at [mljar.com/docs](https://mljar.com/docs)
