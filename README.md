@@ -4,17 +4,16 @@
 
 # MLJAR Studio
 
-In this repository we publish binaries (executables), track progress and issues for MLJAR Studio Desktop Application.
+In this repository we publish binaries, track progress and issues for MLJAR Studio Desktop Application.
 
-- Binaries with installer for MLJAR Studion: [installer](https://github.com/mljar/studio/releases)
+- Binaries with installer for MLJAR Studio: [installer](https://github.com/mljar/studio/releases)
 - If you have issues with application, please submit it [here](https://github.com/mljar/studio/issues)
-- If you have feature request, please start a [new disucssion](https://github.com/mljar/studion/discussions)
+- If you have feature request, please start a [new disucssion](https://github.com/mljar/studio/discussions)
 - Documentation for MLJAR Studio is available at [mljar.com/docs](https://mljar.com/docs)
-
 
 ## Milestone versions
 
-1. Version 1.0 ([Łapy](https://en.wikipedia.org/wiki/%C5%81apy)) - working notebook with graphical interface for code creation.
+1. Version 1.0.0 ([Łapy](https://en.wikipedia.org/wiki/%C5%81apy)) - working notebook with graphical interface for code creation.
 
 #### Versions naming
 
