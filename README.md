@@ -1,3 +1,10 @@
+# New version
+
+You can find the newest release of MLJAR Studio at https://mljar.com/docs/
+
+---
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/6959032/128827016-cd47b497-1786-461e-9a1a-e6d835bc7c8e.png" width="30%" alt="MLJAR Studio" />
 </p>
